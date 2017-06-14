@@ -1,0 +1,23 @@
+{
+  "name": "webApp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "TAO0511 <972990430@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "less": "^2.7.2",
+    "angular": "^1.6.4",
+    "angular-ui-router": "ui-router#^1.0.3+hybrid-2.0.0-2"
+  }
+}
